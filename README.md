@@ -5,5 +5,8 @@ use Arduino IDE for compile/modify ESP32 code
 
 build your dashboard using Nextion editor
 
+![dashboard](F12018_DASHBOARD.png)
+
 watch video on Youtube https://www.youtube.com/watch?v=uoGu7ikt2NM
+
 
