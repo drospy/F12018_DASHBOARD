@@ -7,4 +7,3 @@ build your dashboard using Nextion editor
 
 watch video on Youtube https://www.youtube.com/watch?v=uoGu7ikt2NM
 
-[[https://www.dropbox.com/s/bfnqb4o0qcazvnp/F12018_DASHBOARD.png?dl=0|alt=dashboard]]
